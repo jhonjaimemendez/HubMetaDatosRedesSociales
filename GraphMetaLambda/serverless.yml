@@ -1,0 +1,33 @@
+service: simple-aws-lambda
+
+provider:
+   name: aws
+   runtime: java11
+   apiGateway:
+    minimumCompressionSize: 1024
+    shouldStartNameWithService: true
+   profile: default
+   region: us-east-1
+   timeout: 10
+   stage: dev
+   memorySize: 1024
+   
+package:
+   artifact: target/payment-0.0.1-SNAPSHOT.jar
+   
+functions:
+    simpleLambda:
+       handler: com.harmoney.HandlerPayment
+       runtime: java11
+       description: Scrapea el contenido de un PDF
+       events:
+         - http:
+             path: Payment
+             method: post
+         
+          
+      
+ 
+ 
+   
+ 
