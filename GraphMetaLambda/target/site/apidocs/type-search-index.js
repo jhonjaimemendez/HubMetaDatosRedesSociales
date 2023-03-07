@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.datax.graphapimeta","l":"GraphAPIQuery"},{"p":"com.datax","l":"HandlerGraphMeta"}];updateSearchResults();

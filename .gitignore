@@ -15,3 +15,7 @@ replay_pid*
 *.classpath
 .project
 *.settings
+
+#target
+javadoc-bundle-options*
+maven-javadoc-plugin*

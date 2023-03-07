@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.datax"},{"l":"com.datax.controladores"},{"l":"com.datax.interfaces"},{"l":"com.datax.modelos"},{"l":"com.datax.repositorios"}];updateSearchResults();
