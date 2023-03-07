@@ -3,6 +3,16 @@
 Aplicacion compuesta por un conjunto de lambdas que recuperan datos de Meta, Hubspot, Google Analytical y Linkedln. Asi como un aplicacion movil que ejecute este 
 ultimo para obener los datos devueltos de cada lambda y almacenarlo en una base de datos.
 
+<br>
+
+
+<figure>
+  <img src="recursos/imagenes/arquitectura.png" alt="Trulli" style="width:100%">
+  <figcaption>Figura 1 - Arquitectura</figcaption>
+</figure>
+
+
+
 <h2> Tecnlologias de la Información </h2>
 
 <ul> 
