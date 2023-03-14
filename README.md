@@ -19,18 +19,36 @@ ultimo para obener los datos devueltos de cada lambda y almacenarlo en una base 
   
   <li> PostgreSQL </li>
   <li> Java </li>
-  <li> Libreria restfb  </li>
+  <li> Libreria RestFB  </li>
   <li> FrameWork Spring  </li>
   <li> Cloud AWS </li>
     
 
 </ul>
 
+<h2>Requerimientos Aplicacion en Facebook</h2> 
+
+<dl>
+  <dt>Access Tokens</dt>
+  <dd>Token de acceso de la Aplicación</dd>
+  <dt>Permisos</dt>
+  <dd> read_insights, pages_read_engagement</dd>
+  <dt>Permisos</dt>
+  <dd> read_insights, pages_read_engagement</dd>
+  <dt>Tareas de página</dt>
+  <dd>ANALYZE</dd>
+</dl>
 
 
 <h2 > Lambda Meta </h2> 
 
 Lambda en AWS que recibe un archivo de configuración de Fan Pages definidas por la empresa y de las cuales se consulta las estaditicas de cada una y 
 las devuelve en un JSON.
+
+<h2>Documentacion </h2> 
+
+La documentacion del proyecto la puede encontrar [aqui](doc)
+
+
 
 
