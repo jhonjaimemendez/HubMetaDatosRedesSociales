@@ -39,6 +39,10 @@ ultimo para obener los datos devueltos de cada lambda y almacenarlo en una base 
   <dd>ANALYZE</dd>
 </dl>
 
+<h2 > Backups </h2> 
+
+[Backup semilla](script) para llenar la base de datos con el conjunto inicial de datos para la configuracion del Graph API version 16.0
+
 
 <h2 > Lambda Meta </h2> 
 
